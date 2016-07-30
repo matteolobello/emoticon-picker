@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmojiFromDroid</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="open_app_on_phone">Please, first download emojis on phone. As soon as the phone detects the computer, come back here</string>
+</resources>

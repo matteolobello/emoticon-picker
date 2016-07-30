@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/values-sw180dp-notround-v23/values-sw180dp-notround-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 61,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 59,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 59,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 59,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 59,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 62,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 62,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 52,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 52,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 80,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 80,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 86,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 86,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 81,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 81,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 90,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 90,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 76,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 76,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 77,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 77,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 75,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 75,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 85,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 85,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 79,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 79,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 75,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw180dp-notround/values-sw180dp-notround.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 75,
+                        "endOffset": 1375
+                    }
+                }
+            }
+        ]
+    }
+]

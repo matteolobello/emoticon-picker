@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#3D8C40</color>
+    <color name="colorAccent">#69F0AE</color>
+    <color name="whiteStatusBarColor">#F5F5F5</color>
+    <color name="rippleColor">#FFFFFF</color>
+</resources>

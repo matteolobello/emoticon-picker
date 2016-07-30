@@ -1,0 +1,2864 @@
+[
+    {
+        "outputFile": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 58,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 58,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 61,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 61,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 60,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 60,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 68,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 68,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 39,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 39,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 45,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 45,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 45,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 45,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 38,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 38,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 57,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 57,
+                        "endOffset": 1343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 62,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1348,
+                        "endColumn": 62,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 56,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 56,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 57,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 57,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 60,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 60,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 89,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 89,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 79,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 79,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 89,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 89,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 89,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 89,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 79,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 79,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 80,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 80,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endColumn": 79,
+                    "endOffset": 1637
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 79,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1642,
+                    "endColumn": 79,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 79,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 87,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 87,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 77,
+                    "endOffset": 1883
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 77,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1888,
+                    "endColumn": 87,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 87,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 87,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 87,
+                        "endOffset": 1330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2064,
+                    "endColumn": 77,
+                    "endOffset": 2137
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endColumn": 77,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 78,
+                    "endOffset": 2216
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 78,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2221,
+                    "endColumn": 77,
+                    "endOffset": 2294
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1492,
+                        "endColumn": 77,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2299,
+                    "endColumn": 77,
+                    "endOffset": 2372
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 77,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2377,
+                    "endColumn": 43,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 43,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 43,
+                    "endOffset": 2460
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 43,
+                        "endOffset": 1609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2465,
+                    "endColumn": 42,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1614,
+                        "endColumn": 42,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 51,
+                    "endOffset": 2555
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 51,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2560,
+                    "endColumn": 57,
+                    "endOffset": 2613
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 57,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2618,
+                    "endColumn": 53,
+                    "endOffset": 2667
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 53,
+                        "endOffset": 1816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 47,
+                    "endOffset": 2715
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1821,
+                        "endColumn": 47,
+                        "endOffset": 1864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2720,
+                    "endColumn": 55,
+                    "endOffset": 2771
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endColumn": 55,
+                        "endOffset": 1920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2776,
+                    "endColumn": 54,
+                    "endOffset": 2826
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endColumn": 54,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2831,
+                    "endColumn": 39,
+                    "endOffset": 2866
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 39,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2871,
+                    "endColumn": 38,
+                    "endOffset": 2905
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2020,
+                        "endColumn": 38,
+                        "endOffset": 2054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2910,
+                    "endColumn": 44,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2059,
+                        "endColumn": 44,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 40,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 40,
+                        "endOffset": 2140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 56,
+                    "endOffset": 3048
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2145,
+                        "endColumn": 56,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3053,
+                    "endColumn": 61,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2202,
+                        "endColumn": 61,
+                        "endOffset": 2259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endColumn": 37,
+                    "endOffset": 3148
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2264,
+                        "endColumn": 37,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3153,
+                    "endColumn": 54,
+                    "endOffset": 3203
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2302,
+                        "endColumn": 54,
+                        "endOffset": 2352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3208,
+                    "endColumn": 56,
+                    "endOffset": 3260
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endColumn": 56,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3265,
+                    "endColumn": 39,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2414,
+                        "endColumn": 39,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 10182,
+                    "endColumn": 90,
+                    "endOffset": 10268
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 8529,
+                        "endColumn": 90,
+                        "endOffset": 8615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 10273,
+                    "endColumn": 87,
+                    "endOffset": 10356
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 8620,
+                        "endColumn": 87,
+                        "endOffset": 8703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 10361,
+                    "endColumn": 89,
+                    "endOffset": 10446
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 8708,
+                        "endColumn": 89,
+                        "endOffset": 8793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 10451,
+                    "endColumn": 88,
+                    "endOffset": 10535
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 8798,
+                        "endColumn": 88,
+                        "endOffset": 8882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 10540,
+                    "endColumn": 93,
+                    "endOffset": 10629
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 9083,
+                        "endColumn": 93,
+                        "endOffset": 9172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 10634,
+                    "endColumn": 95,
+                    "endOffset": 10725
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 9177,
+                        "endColumn": 95,
+                        "endOffset": 9268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 10730,
+                    "endColumn": 61,
+                    "endOffset": 10787
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 9469,
+                        "endColumn": 61,
+                        "endOffset": 9526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 10792,
+                    "endColumn": 59,
+                    "endOffset": 10847
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 9531,
+                        "endColumn": 59,
+                        "endOffset": 9586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 10852,
+                    "endColumn": 59,
+                    "endOffset": 10907
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 9591,
+                        "endColumn": 59,
+                        "endOffset": 9646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 10912,
+                    "endColumn": 59,
+                    "endOffset": 10967
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 9651,
+                        "endColumn": 59,
+                        "endOffset": 9706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 10972,
+                    "endColumn": 55,
+                    "endOffset": 11023
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 9711,
+                        "endColumn": 55,
+                        "endOffset": 9762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 11028,
+                    "endColumn": 63,
+                    "endOffset": 11087
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 9767,
+                        "endColumn": 63,
+                        "endOffset": 9826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 11092,
+                    "endColumn": 53,
+                    "endOffset": 11141
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 9831,
+                        "endColumn": 53,
+                        "endOffset": 9880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 11146,
+                    "endColumn": 62,
+                    "endOffset": 11204
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 9885,
+                        "endColumn": 62,
+                        "endOffset": 9943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 11209,
+                    "endColumn": 61,
+                    "endOffset": 11266
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 9948,
+                        "endColumn": 61,
+                        "endOffset": 10005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 11271,
+                    "endColumn": 57,
+                    "endOffset": 11324
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 10010,
+                        "endColumn": 57,
+                        "endOffset": 10063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 11329,
+                    "endColumn": 63,
+                    "endOffset": 11388
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 10068,
+                        "endColumn": 63,
+                        "endOffset": 10127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 11393,
+                    "endColumn": 67,
+                    "endOffset": 11456
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 10132,
+                        "endColumn": 67,
+                        "endOffset": 10195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 11461,
+                    "endColumn": 58,
+                    "endOffset": 11515
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 10200,
+                        "endColumn": 58,
+                        "endOffset": 10254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 11520,
+                    "endColumn": 56,
+                    "endOffset": 11572
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 10259,
+                        "endColumn": 56,
+                        "endOffset": 10311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 11577,
+                    "endColumn": 62,
+                    "endOffset": 11635
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 10316,
+                        "endColumn": 62,
+                        "endOffset": 10374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 11640,
+                    "endColumn": 55,
+                    "endOffset": 11691
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 10379,
+                        "endColumn": 55,
+                        "endOffset": 10430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 11696,
+                    "endColumn": 61,
+                    "endOffset": 11753
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 10435,
+                        "endColumn": 61,
+                        "endOffset": 10492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 11758,
+                    "endColumn": 51,
+                    "endOffset": 11805
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 10497,
+                        "endColumn": 51,
+                        "endOffset": 10544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 11810,
+                    "endColumn": 53,
+                    "endOffset": 11859
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 10549,
+                        "endColumn": 53,
+                        "endOffset": 10598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 11864,
+                    "endColumn": 55,
+                    "endOffset": 11915
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 10603,
+                        "endColumn": 55,
+                        "endOffset": 10654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 11920,
+                    "endColumn": 46,
+                    "endOffset": 11962
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 10659,
+                        "endColumn": 46,
+                        "endOffset": 10701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 11967,
+                    "endColumn": 74,
+                    "endOffset": 12037
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 74,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 12042,
+                    "endColumn": 52,
+                    "endOffset": 12090
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 10706,
+                        "endColumn": 52,
+                        "endOffset": 10754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 12095,
+                    "endColumn": 59,
+                    "endOffset": 12150
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 10759,
+                        "endColumn": 59,
+                        "endOffset": 10814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 12155,
+                    "endColumn": 52,
+                    "endOffset": 12203
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 10819,
+                        "endColumn": 52,
+                        "endOffset": 10867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 12208,
+                    "endColumn": 76,
+                    "endOffset": 12280
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 10872,
+                        "endColumn": 76,
+                        "endOffset": 10944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 12285,
+                    "endColumn": 84,
+                    "endOffset": 12365
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 10949,
+                        "endColumn": 84,
+                        "endOffset": 11029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 12370,
+                    "endColumn": 79,
+                    "endOffset": 12445
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 11034,
+                        "endColumn": 79,
+                        "endOffset": 11109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 12450,
+                    "endColumn": 88,
+                    "endOffset": 12534
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 11114,
+                        "endColumn": 88,
+                        "endOffset": 11198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 12539,
+                    "endColumn": 74,
+                    "endOffset": 12609
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 11203,
+                        "endColumn": 74,
+                        "endOffset": 11273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 12614,
+                    "endColumn": 75,
+                    "endOffset": 12685
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 11278,
+                        "endColumn": 75,
+                        "endOffset": 11349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 12690,
+                    "endColumn": 73,
+                    "endOffset": 12759
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 11354,
+                        "endColumn": 73,
+                        "endOffset": 11423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 12764,
+                    "endColumn": 81,
+                    "endOffset": 12841
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 11428,
+                        "endColumn": 81,
+                        "endOffset": 11505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 12846,
+                    "endColumn": 79,
+                    "endOffset": 12921
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 11510,
+                        "endColumn": 79,
+                        "endOffset": 11585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 12926,
+                    "endColumn": 77,
+                    "endOffset": 12999
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 11590,
+                        "endColumn": 77,
+                        "endOffset": 11663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 13004,
+                    "endColumn": 83,
+                    "endOffset": 13083
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 11668,
+                        "endColumn": 83,
+                        "endOffset": 11747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 13088,
+                    "endColumn": 65,
+                    "endOffset": 13149
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 65,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 13154,
+                    "endColumn": 74,
+                    "endOffset": 13224
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 11945,
+                        "endColumn": 74,
+                        "endOffset": 12015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 13229,
+                    "endColumn": 69,
+                    "endOffset": 13294
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 12218,
+                        "endColumn": 69,
+                        "endOffset": 12283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 13299,
+                    "endColumn": 62,
+                    "endOffset": 13357
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 12288,
+                        "endColumn": 62,
+                        "endOffset": 12346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 13362,
+                    "endColumn": 61,
+                    "endOffset": 13419
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 12351,
+                        "endColumn": 61,
+                        "endOffset": 12408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 13424,
+                    "endColumn": 70,
+                    "endOffset": 13490
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 12413,
+                        "endColumn": 70,
+                        "endOffset": 12479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 13495,
+                    "endColumn": 66,
+                    "endOffset": 13557
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 66,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 13562,
+                    "endLine": 124,
+                    "endColumn": 14,
+                    "endOffset": 13772
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 12681,
+                        "endLine": 119,
+                        "endColumn": 14,
+                        "endOffset": 12891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 13777,
+                    "endLine": 128,
+                    "endColumn": 14,
+                    "endOffset": 13990
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 12896,
+                        "endLine": 123,
+                        "endColumn": 14,
+                        "endOffset": 13109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 13995,
+                    "endLine": 132,
+                    "endColumn": 14,
+                    "endOffset": 14214
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 13114,
+                        "endLine": 127,
+                        "endColumn": 14,
+                        "endOffset": 13333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 14219,
+                    "endLine": 136,
+                    "endColumn": 14,
+                    "endOffset": 14436
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 13338,
+                        "endLine": 131,
+                        "endColumn": 14,
+                        "endOffset": 13555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 14441,
+                    "endLine": 140,
+                    "endColumn": 14,
+                    "endOffset": 14663
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 13560,
+                        "endLine": 135,
+                        "endColumn": 14,
+                        "endOffset": 13782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 14668,
+                    "endLine": 144,
+                    "endColumn": 14,
+                    "endOffset": 14894
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 13787,
+                        "endLine": 139,
+                        "endColumn": 14,
+                        "endOffset": 14013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 14899,
+                    "endColumn": 51,
+                    "endOffset": 14946
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 51,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 14951,
+                    "endColumn": 231,
+                    "endOffset": 15178
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2214,
+                        "endColumn": 231,
+                        "endOffset": 2441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 15183,
+                    "endColumn": 125,
+                    "endOffset": 15304
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2446,
+                        "endColumn": 125,
+                        "endOffset": 2567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 15309,
+                    "endColumn": 180,
+                    "endOffset": 15485
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endColumn": 180,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 15490,
+                    "endColumn": 124,
+                    "endOffset": 15610
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2753,
+                        "endColumn": 124,
+                        "endOffset": 2873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 15615,
+                    "endColumn": 123,
+                    "endOffset": 15734
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2878,
+                        "endColumn": 123,
+                        "endOffset": 2997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 15739,
+                    "endColumn": 212,
+                    "endOffset": 15947
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3002,
+                        "endColumn": 212,
+                        "endOffset": 3210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 15952,
+                    "endColumn": 214,
+                    "endOffset": 16162
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3215,
+                        "endColumn": 214,
+                        "endOffset": 3425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 16167,
+                    "endColumn": 122,
+                    "endOffset": 16285
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3430,
+                        "endColumn": 122,
+                        "endOffset": 3548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 16290,
+                    "endColumn": 164,
+                    "endOffset": 16450
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3553,
+                        "endColumn": 164,
+                        "endOffset": 3713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 16455,
+                    "endColumn": 93,
+                    "endOffset": 16544
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3718,
+                        "endColumn": 93,
+                        "endOffset": 3807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 16549,
+                    "endColumn": 140,
+                    "endOffset": 16685
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3812,
+                        "endColumn": 140,
+                        "endOffset": 3948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 16690,
+                    "endColumn": 89,
+                    "endOffset": 16775
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3953,
+                        "endColumn": 89,
+                        "endOffset": 4038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 16780,
+                    "endColumn": 102,
+                    "endOffset": 16878
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 4043,
+                        "endColumn": 102,
+                        "endOffset": 4141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 16883,
+                    "endColumn": 150,
+                    "endOffset": 17029
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4146,
+                        "endColumn": 150,
+                        "endOffset": 4292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 17034,
+                    "endColumn": 121,
+                    "endOffset": 17151
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4297,
+                        "endColumn": 121,
+                        "endOffset": 4414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 17156,
+                    "endColumn": 142,
+                    "endOffset": 17294
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4419,
+                        "endColumn": 142,
+                        "endOffset": 4557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 17299,
+                    "endColumn": 99,
+                    "endOffset": 17394
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4562,
+                        "endColumn": 99,
+                        "endOffset": 4657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 17399,
+                    "endColumn": 150,
+                    "endOffset": 17545
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4662,
+                        "endColumn": 150,
+                        "endOffset": 4808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 17550,
+                    "endColumn": 91,
+                    "endOffset": 17637
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4813,
+                        "endColumn": 91,
+                        "endOffset": 4900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 17642,
+                    "endColumn": 218,
+                    "endOffset": 17856
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 218,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 17861,
+                    "endColumn": 218,
+                    "endOffset": 18075
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endColumn": 218,
+                        "endOffset": 5119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 18080,
+                    "endColumn": 94,
+                    "endOffset": 18170
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 5124,
+                        "endColumn": 94,
+                        "endOffset": 5214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 18175,
+                    "endColumn": 104,
+                    "endOffset": 18275
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 5219,
+                        "endColumn": 104,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 18280,
+                    "endColumn": 180,
+                    "endOffset": 18456
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 180,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 18461,
+                    "endColumn": 124,
+                    "endOffset": 18581
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5505,
+                        "endColumn": 124,
+                        "endOffset": 5625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 18586,
+                    "endColumn": 174,
+                    "endOffset": 18756
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5630,
+                        "endColumn": 174,
+                        "endOffset": 5800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 18761,
+                    "endColumn": 104,
+                    "endOffset": 18861
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 5805,
+                        "endColumn": 104,
+                        "endOffset": 5905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 18866,
+                    "endColumn": 147,
+                    "endOffset": 19009
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 5910,
+                        "endColumn": 147,
+                        "endOffset": 6053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 19014,
+                    "endColumn": 62,
+                    "endOffset": 19072
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 6058,
+                        "endColumn": 62,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 19077,
+                    "endColumn": 61,
+                    "endOffset": 19134
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 6121,
+                        "endColumn": 61,
+                        "endOffset": 6178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 19139,
+                    "endColumn": 78,
+                    "endOffset": 19213
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 6183,
+                        "endColumn": 78,
+                        "endOffset": 6257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 19218,
+                    "endColumn": 61,
+                    "endOffset": 19275
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 14018,
+                        "endColumn": 61,
+                        "endOffset": 14075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 19280,
+                    "endColumn": 58,
+                    "endOffset": 19334
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 68,
+                        "endColumn": 58,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 19339,
+                    "endColumn": 60,
+                    "endOffset": 19395
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 60,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 19400,
+                    "endColumn": 143,
+                    "endOffset": 19539
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 143,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 19544,
+                    "endColumn": 51,
+                    "endOffset": 19591
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 14080,
+                        "endColumn": 51,
+                        "endOffset": 14127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 19596,
+                    "endColumn": 164,
+                    "endOffset": 19756
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 14132,
+                        "endColumn": 164,
+                        "endOffset": 14292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 19761,
+                    "endColumn": 171,
+                    "endOffset": 19928
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 14297,
+                        "endColumn": 171,
+                        "endOffset": 14464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 19933,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 20257
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 14665,
+                        "endLine": 151,
+                        "endColumn": 12,
+                        "endOffset": 14989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 20262,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 20704
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 14994,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 15436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 20709,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 21101
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 15441,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 15833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 21106,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 21226
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 15838,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 15958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 21231,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 21615
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 15963,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 16347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 21620,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 21914
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 16352,
+                        "endLine": 180,
+                        "endColumn": 12,
+                        "endOffset": 16646
+                    }
+                }
+            }
+        ]
+    }
+]

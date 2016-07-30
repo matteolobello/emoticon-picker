@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/res/merged/debug/values-uz-rUZ/values-uz-rUZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 104,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 107,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 107,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 122,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 122,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 103,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 103,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 116,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 116,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 85,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 110,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 110,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 115,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 115,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 79,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 79,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 78,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 78,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 83,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 83,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 108,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 108,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 106,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 106,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 100,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 100,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 107,
+                    "endOffset": 1588
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 107,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1593,
+                    "endColumn": 104,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 104,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 104,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 104,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 98,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 98,
+                        "endOffset": 1897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1902,
+                    "endColumn": 119,
+                    "endOffset": 2017
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 119,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2022,
+                    "endColumn": 113,
+                    "endOffset": 2131
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 113,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2136,
+                    "endColumn": 104,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 104,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 99,
+                    "endOffset": 2336
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 99,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2341,
+                    "endColumn": 127,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 127,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endColumn": 106,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 106,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 100,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 100,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endColumn": 128,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 128,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 114,
+                    "endOffset": 2916
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 114,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2921,
+                    "endColumn": 84,
+                    "endOffset": 3001
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 84,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3006,
+                    "endColumn": 96,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 96,
+                        "endOffset": 1478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endColumn": 100,
+                    "endOffset": 3199
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1902,
+                        "endColumn": 100,
+                        "endOffset": 1998
+                    }
+                }
+            }
+        ]
+    }
+]

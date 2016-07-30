@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EmojiFromDroid</string>
+    <string name="copy">Copy</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="no_computers_with_program_opened_found">No computers with program opened found</string>
+    <string name="pairing_with_your_pc">Pairing with your computer...</string>
+    <string name="no_wifi_title">Warning</string>
+    <string name="ok">OK</string>
+    <string name="no_wifi_message">This app needs a WiFi connection to work properly with your computer</string>
+    <string name="oops_pc_not_found">Oops,\ncouldn\'t find your computer.</string>
+    <string name="why">Why?</string>
+    <string name="action_text">Open</string>
+    <string name="notification_title">EmojiFromDroid</string>
+    <string name="notification_content">Push Emojis from your watch</string>
+    <string name="snackbar_text">Sent!</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="continue_anyway">Continue anyway</string>
+    <string name="text_copied">Done, copied to clipboard.</string>
+    <string name="wait_a_sec">Wait a sec, please...</string>
+    <string name="paired">Successfully paired with computer!</string>
+    <string name="retry">Retry</string>
+    <string name="use_the_basic_feature_instead">Use the basic feature instead?</string>
+    <string name="yes">Yes</string>
+    <string name="already_connected">You\'re already connected to a computer</string>
+    <string name="setup">Setup</string>
+</resources>

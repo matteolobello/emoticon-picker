@@ -1,0 +1,59 @@
+package io.github.ohmylob.emojipicker.service;
+
+/*
+ * Copyright (C) 2016 Matteo Lobello
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import android.content.Intent;
+
+import com.google.android.gms.wearable.MessageEvent;
+import com.google.android.gms.wearable.WearableListenerService;
+
+import java.io.ByteArrayInputStream;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+
+import io.github.ohmylob.emojipicker.activity.MainActivity;
+
+public class WearDataLayerListenerService extends WearableListenerService {
+
+    public static final String START_ACTIVITY_PATH = "/start/MainActivity";
+
+    @Override
+    public void onMessageReceived(MessageEvent messageEvent) {
+        super.onMessageReceived(messageEvent);
+        if (messageEvent.getPath().equals(START_ACTIVITY_PATH)) {
+
+            ArrayList<String> emojiArrayList = new ArrayList<>();
+
+            ByteArrayInputStream bais = new ByteArrayInputStream(messageEvent.getData());
+            DataInputStream in = new DataInputStream(bais);
+            try {
+                while (in.available() > 0) {
+                    String element = in.readUTF();
+                    emojiArrayList.add(element);
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            Intent intent = new Intent(this, MainActivity.class);
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            intent.putStringArrayListExtra("emojis", emojiArrayList);
+            startActivity(intent);
+        }
+    }
+}

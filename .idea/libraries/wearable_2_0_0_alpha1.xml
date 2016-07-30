@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="wearable-2.0.0-alpha1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res" />
+      <root url="jar://$PROJECT_DIR$/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
