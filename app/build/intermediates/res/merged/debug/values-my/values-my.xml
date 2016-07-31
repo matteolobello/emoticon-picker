@@ -31,6 +31,4 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ဖုန်းပေါ်မှာ ဖွင့်ပါ"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"လက်မှတ်ထိုး ဝင်ရန်"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ဖြင့် လက်မှတ်ထိုးဝင်ရေ"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"ရှာဖွေမှုကို ရှင်းပါ"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"ရှာဖွေရန်"</string>
 </resources>

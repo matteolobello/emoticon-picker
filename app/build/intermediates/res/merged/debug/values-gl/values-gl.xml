@@ -31,6 +31,4 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir no teléfono"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Borra a busca"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Buscar"</string>
 </resources>

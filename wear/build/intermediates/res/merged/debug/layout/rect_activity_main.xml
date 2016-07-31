@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     tools:context="io.github.ohmylob.emojipicker.activity.MainActivity"
-    tools:deviceIds="wear_square">
+    tools:deviceIds="wear_round">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
@@ -25,5 +24,6 @@
         android:visibility="visible"
         android:gravity="center"
         android:layout_gravity="center"
+        android:background="?android:selectableItemBackground"
         android:text="@string/open_app_on_phone"/>
-</LinearLayout>
+</RelativeLayout>

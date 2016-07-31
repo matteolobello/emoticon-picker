@@ -18,7 +18,7 @@ package io.github.ohmylob.emojipicker.debug;
 
 public class Logger {
     private static final boolean DEBUG = io.github.ohmylob.emojipicker.BuildConfig.DEBUG;
-    private static final String TAG = "EmojiFromDroid";
+    private static final String TAG = "EmojiPicker";
 
     public static void print(Object what) {
         if (DEBUG) {

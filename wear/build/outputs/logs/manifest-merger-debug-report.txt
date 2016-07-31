@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:2:1-32:12
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml
@@ -17,8 +17,18 @@ uses-feature#android.hardware.type.watch
 ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:5:5-64
 	android:name
 		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:5:19-61
+meta-data#com.google.android.gms.version
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:7:5-9:65
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:9:9-62
+	android:name
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:8:9-54
 application
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:7:5-30:19
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:11:5-34:19
 MERGED from [com.google.android.support:wearable:2.0.0-alpha1] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/AndroidManifest.xml:8:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
@@ -39,53 +49,53 @@ MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/And
 MERGED from [com.android.support:support-v4:23.0.1] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [EmojiPicker:shared:unspecified] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/EmojiPicker/shared/unspecified/AndroidManifest.xml:11:5-12:19
 	android:label
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:14:9-41
 	android:supportsRtl
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:15:9-35
 	android:allowBackup
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:12:9-59
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:16:9-59
 activity#io.github.ohmylob.emojipicker.activity.MainActivity
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:13:9-21:20
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:17:9-25:20
 	android:label
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:15:13-45
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:14:13-79
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:18:13-79
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:23:27-74
 service#io.github.ohmylob.emojipicker.service.WearDataLayerListenerService
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:22:9-29:19
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:26:9-33:19
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:23:13-94
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:27:13-94
 intent-filter#com.google.android.gms.wearable.DATA_CHANGED+com.google.android.gms.wearable.MESSAGE_RECEIVED
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:28:13-32:29
 action#com.google.android.gms.wearable.DATA_CHANGED
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:25:17-87
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:29:17-87
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:25:25-84
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:29:25-84
 action#com.google.android.gms.wearable.MESSAGE_RECEIVED
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:26:17-91
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:30:17-91
 	android:name
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:26:25-88
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:30:25-88
 data
-ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:27:17-105
+ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:31:17-105
 	android:host
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:27:45-61
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:31:45-61
 	android:scheme
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:27:23-44
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:31:23-44
 	android:pathPrefix
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:27:62-102
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:31:62-102
 uses-sdk
 INJECTED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.support:wearable:2.0.0-alpha1] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/AndroidManifest.xml:4:5-6:41
@@ -122,16 +132,6 @@ ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/Lob/AndroidS
 		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:21:19-78
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:22:13-58
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
 	android:authorities

@@ -590,44 +590,6 @@
                         "endOffset": 4982
                     }
                 }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 5021,
-                    "endColumn": 105,
-                    "endOffset": 5122
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values-ky/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 105,
-                        "endOffset": 376
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 5127,
-                    "endColumn": 94,
-                    "endOffset": 5217
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values-ky/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 381,
-                        "endColumn": 94,
-                        "endOffset": 471
-                    }
-                }
             }
         ]
     }

@@ -957,46 +957,8 @@
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 7114,
-                    "endColumn": 105,
-                    "endOffset": 7215
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values-pt-rBR/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 279,
-                        "endColumn": 105,
-                        "endOffset": 380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 7220,
-                    "endColumn": 98,
-                    "endOffset": 7314
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values-pt-rBR/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 385,
-                        "endColumn": 98,
-                        "endOffset": 479
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 7319,
                     "endColumn": 100,
-                    "endOffset": 7415
+                    "endOffset": 7210
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt-rBR/values-pt-rBR.xml",

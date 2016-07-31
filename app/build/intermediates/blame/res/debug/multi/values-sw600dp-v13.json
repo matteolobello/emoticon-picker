@@ -292,27 +292,8 @@
                     "startLine": 17,
                     "startColumn": 4,
                     "startOffset": 1101,
-                    "endColumn": 72,
-                    "endOffset": 1169
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 72,
-                        "endOffset": 350
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1174,
                     "endColumn": 54,
-                    "endOffset": 1224
+                    "endOffset": 1151
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -327,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1229,
+                    "startOffset": 1156,
                     "endColumn": 62,
-                    "endOffset": 1287
+                    "endOffset": 1214
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -346,12 +327,12 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1292,
-                    "endLine": 23,
+                    "startOffset": 1219,
+                    "endLine": 22,
                     "endColumn": 12,
-                    "endOffset": 1469
+                    "endOffset": 1396
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",

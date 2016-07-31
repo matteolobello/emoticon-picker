@@ -50,18 +50,5 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Open on phone"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Sign In"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Sign in with Google"</string>
-    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Cast"</string>
-    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Searching for devices…"</string>
-    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Connect to device"</string>
-    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Disconnect"</string>
-    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"No info available"</string>
-    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pause"</string>
-    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Play"</string>
-    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Route settings"</string>
-    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Stop casting"</string>
-    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
-    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Devices"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Clear search"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Search"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

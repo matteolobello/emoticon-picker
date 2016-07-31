@@ -31,6 +31,4 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ഫോണിൽ തുറക്കുക"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"സൈൻ ഇൻ ചെയ്യുക"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"തിരയുന്നത് മായ്‌ക്കുക"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"തിരയുക"</string>
 </resources>

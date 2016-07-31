@@ -50,18 +50,5 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"باز کردن در تلفن"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ورود به سیستم"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"‏ورود به سیستم با Google‎"</string>
-    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"فرستادن"</string>
-    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"در حال جستجو برای دستگاه‌ها..."</string>
-    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"برقراری ارتباط با دستگاه"</string>
-    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"قطع ارتباط"</string>
-    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"اطلاعات دردسترس نیست"</string>
-    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"توقف موقت"</string>
-    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"پخش"</string>
-    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"تنظیمات مسیر"</string>
-    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"توقف فرستادن"</string>
-    <string msgid="5441529851481176817" name="mr_system_route_name">"سیستم"</string>
-    <string msgid="7498112907524977311" name="mr_user_route_category_name">"دستگاه‌ها"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"پاک کردن جستجو"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"جستجو"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
 </resources>

@@ -34,6 +34,7 @@ import com.google.android.gms.wearable.Wearable;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 import io.github.ohmylob.emojipicker.R;
 import io.github.ohmylob.emojipicker.adapter.EmojiAdapter;
@@ -59,10 +60,10 @@ public class MainActivity extends Activity {
         stub.setOnLayoutInflatedListener(new WatchViewStub.OnLayoutInflatedListener() {
             @Override
             public void onLayoutInflated(WatchViewStub stub) {
-                ArrayList<String> emojis = getIntent().getStringArrayListExtra("emojis");
+                List<String> emojis = getIntent().getStringArrayListExtra("emojis");
 
                 if (emojis == null) {
-                    emojis = (ArrayList<String>) Arrays.asList(Emojis.EMOJIS);
+                    emojis = Arrays.asList(Emojis.EMOJIS);
                 }
 
                 RecyclerView recyclerView = (RecyclerView) stub.findViewById(R.id.recycler_view);

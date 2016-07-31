@@ -1696,25 +1696,6 @@
                         "endOffset": 17664
                     }
                 }
-            },
-            {
-                "to": {
-                    "startLine": 248,
-                    "startColumn": 4,
-                    "startOffset": 17970,
-                    "endColumn": 121,
-                    "endOffset": 18087
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 220,
-                        "endColumn": 121,
-                        "endOffset": 337
-                    }
-                }
             }
         ]
     }

@@ -50,18 +50,5 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Odpiranje v telefonu"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava z Google Računom"</string>
-    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Predvajanje"</string>
-    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Iskanje naprav …"</string>
-    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Povezovanje z napravo"</string>
-    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Prekini povezavo"</string>
-    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Podatki niso na voljo"</string>
-    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Zaustavi"</string>
-    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Predvajaj"</string>
-    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Nastavitve poti"</string>
-    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Ustavi predvajanje"</string>
-    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
-    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Naprave"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Počisti iskalno polje"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Iskanje"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

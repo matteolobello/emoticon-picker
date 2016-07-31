@@ -50,18 +50,5 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Atvērt tālrunī"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Pierakstīties"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Pierakstīties ar Google kontu"</string>
-    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Apraidīt"</string>
-    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Notiek ierīču meklēšana..."</string>
-    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Savienojuma izveide ar ierīci"</string>
-    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Atvienot"</string>
-    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Nav pieejama informācija"</string>
-    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Apturēt"</string>
-    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Atskaņot"</string>
-    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Maršruta iestatījumi"</string>
-    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Pārtraukt apraidi"</string>
-    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistēma"</string>
-    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Ierīces"</string>
-    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Notīrīt meklēšanas vaicājumu"</string>
-    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Meklēt"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

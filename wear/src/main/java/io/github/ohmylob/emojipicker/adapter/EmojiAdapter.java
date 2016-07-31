@@ -19,7 +19,6 @@ package io.github.ohmylob.emojipicker.adapter;
 import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -31,17 +30,17 @@ import com.google.android.gms.wearable.Node;
 import com.google.android.gms.wearable.NodeApi;
 import com.google.android.gms.wearable.Wearable;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import io.github.ohmylob.emojipicker.R;
 
 public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> {
 
-    private final ArrayList<String> emojis;
+    private final List<String> emojis;
 
     private GoogleApiClient googleApiClient;
 
-    public EmojiAdapter(Context context, ArrayList<String> emojis) {
+    public EmojiAdapter(Context context, List<String> emojis) {
         this.emojis = emojis;
 
         googleApiClient = new GoogleApiClient.Builder(context)
@@ -64,8 +63,6 @@ public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> 
         holder.emojiTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("EmojiAdapter", "clicked");
-
                 Wearable.NodeApi.getConnectedNodes(googleApiClient).setResultCallback(new ResultCallback<NodeApi.GetConnectedNodesResult>() {
                     @Override
                     public void onResult(@NonNull NodeApi.GetConnectedNodesResult getConnectedNodesResult) {
