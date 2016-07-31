@@ -24,7 +24,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import io.github.ohmylob.emojifromdroid.R;
+import io.github.ohmylob.emojipicker.R;
 import io.github.ohmylob.emojipicker.activity.MainActivity;
 import io.github.ohmylob.emojipicker.clipboard.ClipBoard;
 

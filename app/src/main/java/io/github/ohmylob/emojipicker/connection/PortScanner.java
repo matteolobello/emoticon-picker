@@ -33,7 +33,7 @@ public class PortScanner {
     /**
      * The milliseconds of timeout
      */
-    private static final int TIMEOUT = 150;
+    private static final int TIMEOUT = 200;
 
     /**
      * A boolean value to check if the AsyncTask is finished

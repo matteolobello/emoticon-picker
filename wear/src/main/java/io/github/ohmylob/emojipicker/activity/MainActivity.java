@@ -35,7 +35,7 @@ import com.google.android.gms.wearable.Wearable;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import io.github.ohmylob.emojifromdroid.R;
+import io.github.ohmylob.emojipicker.R;
 import io.github.ohmylob.emojipicker.adapter.EmojiAdapter;
 import io.github.ohmylob.shared.emoji.Emojis;
 

@@ -50,7 +50,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 
-import io.github.ohmylob.emojifromdroid.R;
+import io.github.ohmylob.emojipicker.R;
 import io.github.ohmylob.emojipicker.adapter.EmojiAdapter;
 import io.github.ohmylob.emojipicker.connection.ComputerConnection;
 import io.github.ohmylob.emojipicker.connection.ConnectionUtils;
@@ -311,6 +311,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 if (!portScanner.isFinished() && !userHasSkippedSetup) {
                     Snackbar.make(findViewById(android.R.id.content), R.string.use_the_basic_feature_instead, Snackbar.LENGTH_INDEFINITE)
+                            .setActionTextColor(Color.parseColor("#4CAF50"))
                             .setAction(R.string.yes, new View.OnClickListener() {
                                 @Override
                                 public void onClick(View view) {

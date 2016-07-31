@@ -358,7 +358,7 @@
     <string name="accept">Accept</string>
     <string name="action_text">Open</string>
     <string name="already_connected">You\'re already connected to a computer</string>
-    <string name="app_name">EmojiFromDroid</string>
+    <string name="app_name">EmojiPicker</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>

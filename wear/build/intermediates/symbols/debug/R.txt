@@ -339,9 +339,7 @@ int string common_open_on_phone 0x7f08001c
 int string common_signin_button_text 0x7f08001d
 int string common_signin_button_text_long 0x7f08001e
 int string dismiss_overlay_button_label 0x7f08001f
-int string hello_round 0x7f080024
-int string hello_square 0x7f080025
-int string open_app_on_phone 0x7f080026
+int string open_app_on_phone 0x7f080024
 int string time_difference_now 0x7f080020
 int string time_difference_short_days_and_hours 0x7f080021
 int string time_difference_short_hours_and_minutes 0x7f080022

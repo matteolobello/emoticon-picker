@@ -33,7 +33,7 @@ import com.google.android.gms.wearable.Wearable;
 
 import java.util.ArrayList;
 
-import io.github.ohmylob.emojifromdroid.R;
+import io.github.ohmylob.emojipicker.R;
 
 public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> {
 

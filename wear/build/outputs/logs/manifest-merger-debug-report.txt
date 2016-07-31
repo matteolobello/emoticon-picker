@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:3:5-47
+		ADDED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml
 		INJECTED from /Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/AndroidManifest.xml
 	android:versionName

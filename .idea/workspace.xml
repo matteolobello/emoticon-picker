@@ -1,69 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f6a3f06-0e4b-4f62-bdee-7903fdcac421" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Lob.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/font/NotoSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid$ListenThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/gui/EmojiFromDroidGui$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/gui/EmojiFromDroidGui.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/pc/dist/EmojiFromDroid.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/adapter/EmojiAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/gui/EmojiFromDroidGui.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid$ListenThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/font/NotoSans-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Lob.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/EmojiFromDroid$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pc/build/classes/emojifromdroid/gui/EmojiFromDroidGui$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/build.gradle" afterPath="$PROJECT_DIR$/wear/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/project.properties" afterPath="$PROJECT_DIR$/pc/nbproject/project.properties" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/clipboard/ClipBoard.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/clipboard/ClipBoard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/service/WearListenerService.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/service/WearListenerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/genfiles.properties" afterPath="$PROJECT_DIR$/pc/nbproject/genfiles.properties" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/connection/ComputerConnection.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/ComputerConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/dist/README.TXT" afterPath="$PROJECT_DIR$/pc/dist/README.TXT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_main.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/adapter/EmojiAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_main.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ripple.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ripple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/build/built-jar.properties" afterPath="$PROJECT_DIR$/pc/build/built-jar.properties" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/connection/ConnectionUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/ConnectionUtils.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/connection/PortScanner.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/PortScanner.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/debug/Logger.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/debug/Logger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/service/WearListenerService.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/service/WearListenerService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/util/ScreenMath.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/util/ScreenMath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/view/AutofitRecyclerView.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/view/AutofitRecyclerView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/view/ScrollingTextView.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/view/ScrollingTextView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/EmojiFromDroid.java" afterPath="$PROJECT_DIR$/pc/src/emojipicker/EmojiPicker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/gui/EmojiFromDroidGui.form" afterPath="$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.form" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/gui/EmojiFromDroidGui.java" afterPath="$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/activity/MainActivity.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/adapter/EmojiAdapter.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/service/WearDataLayerListenerService.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/service/WearDataLayerListenerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ripple.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ripple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/emoji_grid_view_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/emoji_grid_view_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/build.xml" afterPath="$PROJECT_DIR$/pc/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/build/built-jar.properties" afterPath="$PROJECT_DIR$/pc/build/built-jar.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/dist/README.TXT" afterPath="$PROJECT_DIR$/pc/dist/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/build-impl.xml" afterPath="$PROJECT_DIR$/pc/nbproject/build-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/genfiles.properties" afterPath="$PROJECT_DIR$/pc/nbproject/genfiles.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/pc/nbproject/private/private.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/project.properties" afterPath="$PROJECT_DIR$/pc/nbproject/project.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/project.xml" afterPath="$PROJECT_DIR$/pc/nbproject/project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/src/main/java/io/github/ohmylob/shared/emoji/Emojis.java" afterPath="$PROJECT_DIR$/shared/src/main/java/io/github/ohmylob/shared/emoji/Emojis.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/build.gradle" afterPath="$PROJECT_DIR$/wear/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/emoji_grid_view_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/emoji_grid_view_item.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/debug/Logger.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/debug/Logger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/activity/MainActivity.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/view/ScrollingTextView.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/view/ScrollingTextView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/service/WearDataLayerListenerService.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/service/WearDataLayerListenerService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_main.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_main.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/util/ScreenMath.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/util/ScreenMath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/build-impl.xml" afterPath="$PROJECT_DIR$/pc/nbproject/build-impl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/EmojiFromDroid.java" afterPath="$PROJECT_DIR$/pc/src/emojipicker/EmojiPicker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojifromdroid/view/AutofitRecyclerView.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/view/AutofitRecyclerView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojifromdroid/adapter/EmojiAdapter.java" afterPath="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/wear/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/pc/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/gui/EmojiFromDroidGui.java" afterPath="$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pc/src/emojifromdroid/gui/EmojiFromDroidGui.form" afterPath="$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pc/build.xml" afterPath="$PROJECT_DIR$/pc/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/src/main/java/io/github/ohmylob/shared/emoji/Emojis.java" afterPath="$PROJECT_DIR$/shared/src/main/java/io/github/ohmylob/shared/emoji/Emojis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
     </list>
     <ignored path="EmojiPicker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,17 +96,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EmojiAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
+      <file leaf-file-name="PortScanner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/PortScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37546933">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="app.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31688803">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmojiAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/emojipicker_keystore.jks" />
+    <option name="KEY_ALIAS" value="OhMyLob" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -3284,7 +3336,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7343996972000" />
+        <entry key="$PROJECT_DIR$" value="7344113952000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3846,8 +3898,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/wear/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/wear/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/debug/Logger.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/PortScanner.java" />
+        <option value="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/io/github/ohmylob/emojifromdroid/ApplicationTest.java" />
       </list>
     </option>
   </component>
@@ -3882,9 +3945,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3913,18 +4005,194 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="EmojiPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emojipicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emojipicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emojipicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmojiPicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emojipicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3942,6 +4210,14 @@
     <property name="FullScreen" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -3976,6 +4252,39 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -4017,6 +4326,48 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -4039,6 +4390,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -4150,13 +4529,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="124" width="1600" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4170,13 +4550,12 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -4192,16 +4571,40 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2345#2359#0" expanded="false" />
+            <element signature="e#2427#2441#0" expanded="false" />
+            <element signature="e#2443#2719#0" expanded="false" />
+            <element signature="e#2718#2719#0" expanded="false" />
+            <element signature="e#3010#3030#0" expanded="false" />
+            <element signature="e#3033#3055#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1689612">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2345#2359#0" expanded="false" />
+            <element signature="e#2427#2441#0" expanded="false" />
+            <element signature="e#2443#2719#0" expanded="false" />
+            <element signature="e#2718#2719#0" expanded="false" />
+            <element signature="e#3010#3030#0" expanded="false" />
+            <element signature="e#3033#3055#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -4213,10 +4616,151 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/emojipicker/EmojiPicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/emojipicker/gui/EmojiPickerGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wear/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/debug/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37546933">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2345#2359#0" expanded="false" />
+            <element signature="e#2427#2441#0" expanded="false" />
+            <element signature="e#2443#2719#0" expanded="false" />
+            <element signature="e#2718#2719#0" expanded="false" />
+            <element signature="e#3010#3030#0" expanded="false" />
+            <element signature="e#3033#3055#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.02">
+          <caret line="136" column="68" selection-start-line="136" selection-start-column="68" selection-end-line="136" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8722#8739#0" expanded="true" />
+            <element signature="e#9118#9133#0" expanded="true" />
+            <element signature="e#9792#9814#0" expanded="true" />
+            <element signature="e#9848#9872#0" expanded="true" />
+            <element signature="e#9913#9937#0" expanded="true" />
+            <element signature="e#10280#10296#0" expanded="true" />
+            <element signature="e#12190#12228#0" expanded="true" />
+            <element signature="e#12374#12386#0" expanded="true" />
+            <element signature="e#12388#12774#0" expanded="true" />
+            <element signature="e#12773#12774#0" expanded="true" />
+            <element signature="e#16377#16403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47713718">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#468#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi/pc_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031512607">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wear/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031512607">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wear/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.711575">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/ohmylob/emojipicker/connection/PortScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wear/src/main/java/io/github/ohmylob/emojipicker/adapter/EmojiAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31688803">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
       </provider>

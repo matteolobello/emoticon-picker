@@ -1997,8 +1997,8 @@
                     "startLine": 145,
                     "startColumn": 4,
                     "startOffset": 14899,
-                    "endColumn": 51,
-                    "endOffset": 14946
+                    "endColumn": 48,
+                    "endOffset": 14943
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
@@ -2006,8 +2006,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 51,
-                        "endOffset": 63
+                        "endColumn": 48,
+                        "endOffset": 60
                     }
                 }
             },
@@ -2015,9 +2015,9 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 14951,
+                    "startOffset": 14948,
                     "endColumn": 231,
-                    "endOffset": 15178
+                    "endOffset": 15175
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2034,9 +2034,9 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 15183,
+                    "startOffset": 15180,
                     "endColumn": 125,
-                    "endOffset": 15304
+                    "endOffset": 15301
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2053,9 +2053,9 @@
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 15309,
+                    "startOffset": 15306,
                     "endColumn": 180,
-                    "endOffset": 15485
+                    "endOffset": 15482
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2072,9 +2072,9 @@
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 15490,
+                    "startOffset": 15487,
                     "endColumn": 124,
-                    "endOffset": 15610
+                    "endOffset": 15607
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2091,9 +2091,9 @@
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 15615,
+                    "startOffset": 15612,
                     "endColumn": 123,
-                    "endOffset": 15734
+                    "endOffset": 15731
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2110,9 +2110,9 @@
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 15739,
+                    "startOffset": 15736,
                     "endColumn": 212,
-                    "endOffset": 15947
+                    "endOffset": 15944
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2129,9 +2129,9 @@
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 15952,
+                    "startOffset": 15949,
                     "endColumn": 214,
-                    "endOffset": 16162
+                    "endOffset": 16159
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2148,9 +2148,9 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 16167,
+                    "startOffset": 16164,
                     "endColumn": 122,
-                    "endOffset": 16285
+                    "endOffset": 16282
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2167,9 +2167,9 @@
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 16290,
+                    "startOffset": 16287,
                     "endColumn": 164,
-                    "endOffset": 16450
+                    "endOffset": 16447
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2186,9 +2186,9 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 16455,
+                    "startOffset": 16452,
                     "endColumn": 93,
-                    "endOffset": 16544
+                    "endOffset": 16541
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2205,9 +2205,9 @@
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 16549,
+                    "startOffset": 16546,
                     "endColumn": 140,
-                    "endOffset": 16685
+                    "endOffset": 16682
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2224,9 +2224,9 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 16690,
+                    "startOffset": 16687,
                     "endColumn": 89,
-                    "endOffset": 16775
+                    "endOffset": 16772
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2243,9 +2243,9 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 16780,
+                    "startOffset": 16777,
                     "endColumn": 102,
-                    "endOffset": 16878
+                    "endOffset": 16875
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2262,9 +2262,9 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 16883,
+                    "startOffset": 16880,
                     "endColumn": 150,
-                    "endOffset": 17029
+                    "endOffset": 17026
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2281,9 +2281,9 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 17034,
+                    "startOffset": 17031,
                     "endColumn": 121,
-                    "endOffset": 17151
+                    "endOffset": 17148
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2300,9 +2300,9 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 17156,
+                    "startOffset": 17153,
                     "endColumn": 142,
-                    "endOffset": 17294
+                    "endOffset": 17291
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2319,9 +2319,9 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 17299,
+                    "startOffset": 17296,
                     "endColumn": 99,
-                    "endOffset": 17394
+                    "endOffset": 17391
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2338,9 +2338,9 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 17399,
+                    "startOffset": 17396,
                     "endColumn": 150,
-                    "endOffset": 17545
+                    "endOffset": 17542
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2357,9 +2357,9 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 17550,
+                    "startOffset": 17547,
                     "endColumn": 91,
-                    "endOffset": 17637
+                    "endOffset": 17634
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2376,9 +2376,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 17642,
+                    "startOffset": 17639,
                     "endColumn": 218,
-                    "endOffset": 17856
+                    "endOffset": 17853
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values/values.xml",
@@ -2395,9 +2395,9 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 17861,
+                    "startOffset": 17858,
                     "endColumn": 218,
-                    "endOffset": 18075
+                    "endOffset": 18072
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2414,9 +2414,9 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 18080,
+                    "startOffset": 18077,
                     "endColumn": 94,
-                    "endOffset": 18170
+                    "endOffset": 18167
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2433,9 +2433,9 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 18175,
+                    "startOffset": 18172,
                     "endColumn": 104,
-                    "endOffset": 18275
+                    "endOffset": 18272
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2452,9 +2452,9 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 18280,
+                    "startOffset": 18277,
                     "endColumn": 180,
-                    "endOffset": 18456
+                    "endOffset": 18453
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2471,9 +2471,9 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 18461,
+                    "startOffset": 18458,
                     "endColumn": 124,
-                    "endOffset": 18581
+                    "endOffset": 18578
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2490,9 +2490,9 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 18586,
+                    "startOffset": 18583,
                     "endColumn": 174,
-                    "endOffset": 18756
+                    "endOffset": 18753
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2509,9 +2509,9 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 18761,
+                    "startOffset": 18758,
                     "endColumn": 104,
-                    "endOffset": 18861
+                    "endOffset": 18858
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2528,9 +2528,9 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 18866,
+                    "startOffset": 18863,
                     "endColumn": 147,
-                    "endOffset": 19009
+                    "endOffset": 19006
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2547,9 +2547,9 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 19014,
+                    "startOffset": 19011,
                     "endColumn": 62,
-                    "endOffset": 19072
+                    "endOffset": 19069
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2566,9 +2566,9 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 19077,
+                    "startOffset": 19074,
                     "endColumn": 61,
-                    "endOffset": 19134
+                    "endOffset": 19131
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2585,9 +2585,9 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 19139,
+                    "startOffset": 19136,
                     "endColumn": 78,
-                    "endOffset": 19213
+                    "endOffset": 19210
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values/values.xml",
@@ -2604,9 +2604,9 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 19218,
+                    "startOffset": 19215,
                     "endColumn": 61,
-                    "endOffset": 19275
+                    "endOffset": 19272
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2623,18 +2623,18 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 19280,
-                    "endColumn": 58,
-                    "endOffset": 19334
+                    "startOffset": 19277,
+                    "endColumn": 143,
+                    "endOffset": 19416
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 68,
-                        "endColumn": 58,
-                        "endOffset": 122
+                        "startOffset": 65,
+                        "endColumn": 143,
+                        "endOffset": 204
                     }
                 }
             },
@@ -2642,47 +2642,9 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 19339,
-                    "endColumn": 60,
-                    "endOffset": 19395
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 127,
-                        "endColumn": 60,
-                        "endOffset": 183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 180,
-                    "startColumn": 4,
-                    "startOffset": 19400,
-                    "endColumn": 143,
-                    "endOffset": 19539
-                },
-                "from": {
-                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 188,
-                        "endColumn": 143,
-                        "endOffset": 327
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 181,
-                    "startColumn": 4,
-                    "startOffset": 19544,
+                    "startOffset": 19421,
                     "endColumn": 51,
-                    "endOffset": 19591
+                    "endOffset": 19468
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2697,11 +2659,11 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 19596,
+                    "startOffset": 19473,
                     "endColumn": 164,
-                    "endOffset": 19756
+                    "endOffset": 19633
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2716,11 +2678,11 @@
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 19761,
+                    "startOffset": 19638,
                     "endColumn": 171,
-                    "endOffset": 19928
+                    "endOffset": 19805
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2735,12 +2697,12 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 19933,
-                    "endLine": 189,
+                    "startOffset": 19810,
+                    "endLine": 187,
                     "endColumn": 12,
-                    "endOffset": 20257
+                    "endOffset": 20134
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2756,12 +2718,12 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 20262,
-                    "endLine": 197,
+                    "startOffset": 20139,
+                    "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 20704
+                    "endOffset": 20581
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2777,12 +2739,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 20709,
-                    "endLine": 203,
+                    "startOffset": 20586,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 21101
+                    "endOffset": 20978
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2798,12 +2760,12 @@
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 21106,
-                    "endLine": 206,
+                    "startOffset": 20983,
+                    "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 21226
+                    "endOffset": 21103
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2819,12 +2781,12 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 21231,
-                    "endLine": 212,
+                    "startOffset": 21108,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 21615
+                    "endOffset": 21492
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",
@@ -2840,12 +2802,12 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 21620,
-                    "endLine": 218,
+                    "startOffset": 21497,
+                    "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 21914
+                    "endOffset": 21791
                 },
                 "from": {
                     "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values/values.xml",

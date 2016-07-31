@@ -16,17 +16,13 @@ package io.github.ohmylob.emojipicker.debug;
  * limitations under the License.
  */
 
-import android.util.Log;
-
-import io.github.ohmylob.emojifromdroid.BuildConfig;
-
 public class Logger {
-    private static final boolean DEBUG = BuildConfig.DEBUG;
+    private static final boolean DEBUG = io.github.ohmylob.emojipicker.BuildConfig.DEBUG;
     private static final String TAG = "EmojiFromDroid";
 
     public static void print(Object what) {
         if (DEBUG) {
-            Log.d(TAG, what != null ? String.valueOf(what) : "null");
+            android.util.Log.d(TAG, what != null ? String.valueOf(what) : "null");
         }
     }
 }
