@@ -24,13 +24,14 @@ import android.net.wifi.WifiManager;
 import android.text.format.Formatter;
 
 public class ConnectionUtils {
-    public static String getSubnet(String currentIP) {
+
+    static String getSubnet(String currentIP) {
         int firstSeparator = currentIP.lastIndexOf("/");
         int lastSeparator = currentIP.lastIndexOf(".");
         return currentIP.substring(firstSeparator + 1, lastSeparator + 1);
     }
 
-    public static String getIp(Context context) {
+    static String getIp(Context context) {
         WifiManager wifiMgr = (WifiManager) context.getSystemService(Context.WIFI_SERVICE);
         WifiInfo wifiInfo = wifiMgr.getConnectionInfo();
         return Formatter.formatIpAddress(wifiInfo.getIpAddress());

@@ -17,6 +17,7 @@ package io.github.ohmylob.shared.emoji;
  */
 
 public class Emojis {
+
     public static final String[] EMOJIS = {
             "•ᴗ•",
             "( ͡° \u035Cʖ ͡°)",
@@ -37,6 +38,10 @@ public class Emojis {
             "ヽ(♡‿♡)ノ",
             "ヽ(ー_ー )ノ",
             "(・_・;)",
-            "ヾ(⌐■_■)ノ♪"
+            "ヾ(⌐■_■)ノ♪",
+            "( ˇ෴ˇ )",
+            "ᕙ(⇀‸↼‶)ᕗ",
+            "⊙▂⊙",
+            "ಥ‿ಥ"
     };
 }

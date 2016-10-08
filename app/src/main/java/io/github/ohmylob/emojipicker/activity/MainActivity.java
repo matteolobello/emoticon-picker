@@ -57,7 +57,7 @@ import io.github.ohmylob.emojipicker.connection.ConnectionUtils;
 import io.github.ohmylob.emojipicker.connection.PortScanner;
 import io.github.ohmylob.emojipicker.debug.Logger;
 import io.github.ohmylob.emojipicker.util.ScreenMath;
-import io.github.ohmylob.emojipicker.view.AutofitRecyclerView;
+import io.github.ohmylob.emojipicker.view.AutoFitRecyclerView;
 import io.github.ohmylob.shared.emoji.Emojis;
 
 public class MainActivity extends AppCompatActivity {
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     public ComputerConnection computerConnection;
 
     /**
-     * Used for portscanning the current network
+     * Used for PortScanning the current network
      */
     public PortScanner portScanner;
 
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
 
     /**
-     * The progressbar shown while we're portscanning
+     * The progressbar shown while we're PortScanning
      */
     private ProgressBar progressBar;
 
@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean userHasSkippedSetup;
 
     /**
-     * The Runnable run on UI thread that starts animation and setup other UI elements
+     * The Runnable run on UI thread that starts animation and setups other UI elements
      */
     private Runnable setupEmojis = new Runnable() {
         @Override
@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity {
                                     fourDp,
                                     fourDp);
                             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-                                emojiRecyclerView.setOnScrollListener(AutofitRecyclerView.getOnScrollListener(toolbar));
+                                emojiRecyclerView.setOnScrollListener(AutoFitRecyclerView.getOnScrollListener(toolbar));
                             }
                         }
 

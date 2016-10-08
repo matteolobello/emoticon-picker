@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ripple
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="?android:attr/colorControlHighlight">
-</ripple>
-<!-- From: file:/usr/local/google/buildbot/src/googleplex-android/ub-wear-euro/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/action_item_background.xml -->

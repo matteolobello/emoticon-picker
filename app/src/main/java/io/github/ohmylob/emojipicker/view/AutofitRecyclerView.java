@@ -28,31 +28,31 @@ import android.support.v7.widget.Toolbar;
 import android.util.AttributeSet;
 import android.view.animation.LinearInterpolator;
 
-public class AutofitRecyclerView extends RecyclerView {
+public class AutoFitRecyclerView extends RecyclerView {
 
     public static final float TOOLBAR_ELEVATION = 14f;
 
     private GridLayoutManager manager;
     private int columnWidth = -1;
 
-    public AutofitRecyclerView(Context context) {
+    public AutoFitRecyclerView(Context context) {
         super(context);
         init(context, null);
     }
 
-    public AutofitRecyclerView(Context context, AttributeSet attrs) {
+    public AutoFitRecyclerView(Context context, AttributeSet attrs) {
         super(context, attrs);
         init(context, attrs);
     }
 
-    public AutofitRecyclerView(Context context, AttributeSet attrs, int defStyle) {
+    public AutoFitRecyclerView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         init(context, attrs);
     }
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     public static OnScrollListener getOnScrollListener(final Toolbar toolbar) {
-        toolbar.setElevation(AutofitRecyclerView.TOOLBAR_ELEVATION);
+        toolbar.setElevation(AutoFitRecyclerView.TOOLBAR_ELEVATION);
 
         return new OnScrollListener() {
             int verticalOffset;

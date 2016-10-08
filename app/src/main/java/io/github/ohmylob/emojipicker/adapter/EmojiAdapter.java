@@ -17,6 +17,7 @@ package io.github.ohmylob.emojipicker.adapter;
  */
 
 import android.app.Activity;
+import android.graphics.Typeface;
 import android.support.design.widget.Snackbar;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -30,7 +31,7 @@ import io.github.ohmylob.emojipicker.clipboard.ClipBoard;
 
 public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> {
 
-    public final String[] emojis;
+    private final String[] emojis;
 
     private final MainActivity activity;
     private final boolean userHasSkippedSetup;
@@ -55,6 +56,7 @@ public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> 
         final TextView emojiTextView = holder.emojiTextView;
 
         emojiTextView.setText(emoji);
+        emojiTextView.setTypeface(Typeface.createFromAsset(activity.getAssets(), "NotoSans-Regular.ttf"));
 
         rootView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -79,6 +81,17 @@ public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> 
                         ? R.string.text_copied : R.string.snackbar_text, Snackbar.LENGTH_SHORT).show();
             }
         });
+
+        rootView.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View view) {
+                Snackbar.make(activity.findViewById(android.R.id.content), R.string.text_copied, Snackbar.LENGTH_SHORT).show();
+
+                ClipBoard.setClipboard(activity, emoji);
+
+                return true;
+            }
+        });
     }
 
     @Override
@@ -86,11 +99,11 @@ public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> 
         return emojis.length;
     }
 
-    protected static class ViewHolder extends RecyclerView.ViewHolder {
+    static class ViewHolder extends RecyclerView.ViewHolder {
 
         private TextView emojiTextView;
 
-        protected ViewHolder(View itemView) {
+        ViewHolder(View itemView) {
             super(itemView);
             this.emojiTextView = (TextView) itemView.findViewById(R.id.emoji);
         }

@@ -22,17 +22,27 @@ import java.awt.AWTException;
 import java.awt.Dimension;
 import java.awt.EventQueue;
 import java.awt.HeadlessException;
+import java.awt.Image;
+import java.awt.MenuItem;
+import java.awt.PopupMenu;
 import java.awt.Robot;
+import static java.awt.SystemColor.menu;
+import java.awt.SystemTray;
 import java.awt.Toolkit;
+import java.awt.TrayIcon;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.DataFlavor;
 import java.awt.datatransfer.StringSelection;
 import java.awt.datatransfer.UnsupportedFlavorException;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.io.DataInputStream;
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.net.URL;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;
@@ -76,6 +86,39 @@ public class EmojiPicker {
          
         listenThread = new ListenThread();
         listenThread.start();
+        
+        setupSystemTray();
+    }
+    
+    /**
+     * Add an icon to System Tray
+     */
+    private static void setupSystemTray() {
+         if (SystemTray.isSupported()) {
+             try {
+                 SystemTray tray = SystemTray.getSystemTray();
+                 Image image = Toolkit.getDefaultToolkit().getImage(new URL("http://i.imgur.com/EkjByeV.png"));
+                 ActionListener listener = new ActionListener() {
+                     public void actionPerformed(ActionEvent e) {
+                         System.exit(0);
+                     }
+                 };
+
+                 PopupMenu popup = new PopupMenu();
+                 MenuItem defaultItem = new MenuItem("Exit");
+                 defaultItem.addActionListener(listener);
+                 popup.add(defaultItem);
+                 TrayIcon trayIcon = new TrayIcon(image, "EmojiPicker", popup);
+                 trayIcon.addActionListener(listener);
+                 try {
+                     tray.add(trayIcon);
+                 } catch (AWTException ex) {
+                     Logger.getLogger(EmojiPicker.class.getName()).log(Level.SEVERE, null, ex);
+                 }
+             } catch (MalformedURLException ex) {
+                 Logger.getLogger(EmojiPicker.class.getName()).log(Level.SEVERE, null, ex);
+             }
+         }
     }
 
     /**

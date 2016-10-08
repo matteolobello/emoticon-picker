@@ -19,6 +19,7 @@ package io.github.ohmylob.emojipicker.util;
 import android.content.res.Resources;
 
 public class ScreenMath {
+
     public static int dpToPx(int dp) {
         return (int) (dp * Resources.getSystem().getDisplayMetrics().density);
     }

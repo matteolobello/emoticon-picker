@@ -86,10 +86,10 @@ public class EmojiAdapter extends RecyclerView.Adapter<EmojiAdapter.ViewHolder> 
         return emojis.size();
     }
 
-    public static class ViewHolder extends RecyclerView.ViewHolder {
-        public TextView emojiTextView;
+    static class ViewHolder extends RecyclerView.ViewHolder {
+        TextView emojiTextView;
 
-        public ViewHolder(View emoji) {
+        ViewHolder(View emoji) {
             super(emoji);
             emojiTextView = (TextView) emoji.findViewById(R.id.emoji);
         }

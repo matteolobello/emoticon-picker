@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="oval">
-  <solid android:color="@android:color/white"/>
-</shape>
-<!-- From: file:/usr/local/google/buildbot/src/googleplex-android/ub-wear-euro/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/action_item_icon_background.xml -->

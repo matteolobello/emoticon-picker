@@ -92,7 +92,7 @@
             android:background="@color/colorPrimary"
             android:visibility="invisible"/>
 
-        <io.github.ohmylob.emojipicker.view.AutofitRecyclerView
+        <io.github.ohmylob.emojipicker.view.AutoFitRecyclerView
             android:id="@+id/emoji_recycler_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
