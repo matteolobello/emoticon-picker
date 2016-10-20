@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.github.ohmylob.shared"
-    android:versionCode="2"
-    android:versionName="1.0.3" >
+    android:versionCode="5"
+    android:versionName="1.1" >
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="24" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
 
     <application android:allowBackup="true" >
     </application>

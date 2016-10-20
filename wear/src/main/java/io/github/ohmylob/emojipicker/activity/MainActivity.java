@@ -32,13 +32,12 @@ import com.google.android.gms.wearable.Node;
 import com.google.android.gms.wearable.NodeApi;
 import com.google.android.gms.wearable.Wearable;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import io.github.ohmylob.emojipicker.R;
-import io.github.ohmylob.emojipicker.adapter.EmojiAdapter;
-import io.github.ohmylob.shared.emoji.Emojis;
+import io.github.ohmylob.emojipicker.adapter.EmoticonAdapter;
+import io.github.ohmylob.shared.emoji.Emoticons;
 
 public class MainActivity extends Activity {
 
@@ -60,10 +59,10 @@ public class MainActivity extends Activity {
         stub.setOnLayoutInflatedListener(new WatchViewStub.OnLayoutInflatedListener() {
             @Override
             public void onLayoutInflated(WatchViewStub stub) {
-                List<String> emojis = getIntent().getStringArrayListExtra("emojis");
+                List<String> emoticons = getIntent().getStringArrayListExtra("emoticons");
 
-                if (emojis == null) {
-                    emojis = Arrays.asList(Emojis.EMOJIS);
+                if (emoticons == null) {
+                    emoticons = Arrays.asList(Emoticons.EMOTICONS);
                 }
 
                 RecyclerView recyclerView = (RecyclerView) stub.findViewById(R.id.recycler_view);
@@ -79,10 +78,10 @@ public class MainActivity extends Activity {
                     }
                 });
 
-                if (emojis.size() != 0) {
+                if (emoticons.size() != 0) {
                     recyclerView.setVisibility(View.VISIBLE);
                     openOnPhone.setVisibility(View.GONE);
-                    recyclerView.setAdapter(new EmojiAdapter(getApplicationContext(), emojis));
+                    recyclerView.setAdapter(new EmoticonAdapter(getApplicationContext(), emoticons));
                 } else {
                     launchActivityOnPhone();
                 }

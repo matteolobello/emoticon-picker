@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">EmojiPicker</string>
-    <string name="open_app_on_phone">Please, first download emojis on phone. As soon as the phone detects the computer, come back here</string>
+    <string name="app_name">Emoticon Picker</string>
+    <string name="open_app_on_phone">Please, first download emoticons on phone. As soon as the phone detects the computer, come back here</string>
 </resources>

@@ -37,14 +37,14 @@ public class WearDataLayerListenerService extends WearableListenerService {
         super.onMessageReceived(messageEvent);
         if (messageEvent.getPath().equals(START_ACTIVITY_PATH)) {
 
-            ArrayList<String> emojiArrayList = new ArrayList<>();
+            ArrayList<String> emoticonArrayList = new ArrayList<>();
 
             ByteArrayInputStream bais = new ByteArrayInputStream(messageEvent.getData());
             DataInputStream in = new DataInputStream(bais);
             try {
                 while (in.available() > 0) {
                     String element = in.readUTF();
-                    emojiArrayList.add(element);
+                    emoticonArrayList.add(element);
                 }
             } catch (IOException e) {
                 e.printStackTrace();
@@ -52,7 +52,7 @@ public class WearDataLayerListenerService extends WearableListenerService {
 
             Intent intent = new Intent(this, MainActivity.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            intent.putStringArrayListExtra("emojis", emojiArrayList);
+            intent.putStringArrayListExtra("emoticons", emoticonArrayList);
             startActivity(intent);
         }
     }

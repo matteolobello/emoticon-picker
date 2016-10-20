@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 61,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 59,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 59,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 59,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 59,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 62,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 62,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 52,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 52,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 81,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 81,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 89,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 89,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 83,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 83,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 91,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 91,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 79,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 79,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 80,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 80,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 77,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 77,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 85,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 85,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 80,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1236,
+                        "endColumn": 80,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 77,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 77,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 87,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/values-sw210dp-round/values-sw210dp-round.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 87,
+                        "endOffset": 1478
+                    }
+                }
+            }
+        ]
+    }
+]

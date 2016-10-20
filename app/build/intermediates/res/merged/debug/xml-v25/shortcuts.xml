@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="pair_pc"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_pair"
+        android:shortcutShortLabel="@string/pair_shortcut_short_label"
+        android:shortcutLongLabel="@string/pair_shortcut_long_label"
+        android:shortcutDisabledMessage="@string/pair_shortcut_disabled">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="io.github.ohmylob.emojipicker"
+            android:targetClass="io.github.ohmylob.emojipicker.activity.MainActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="pick_emoticon"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_pick_emoticon"
+        android:shortcutShortLabel="@string/pick_emoticon_shortcut_short_label"
+        android:shortcutLongLabel="@string/pick_emoticon_shortcut_long_label"
+        android:shortcutDisabledMessage="@string/pick_emoticon_shortcut_disabled">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="io.github.ohmylob.emojipicker"
+            android:targetClass="io.github.ohmylob.emojipicker.activity.MainActivity">
+            <extra android:name="pick_emoticon" android:value="yes" />
+        </intent>
+    </shortcut>
+</shortcuts>
+

@@ -3,291 +3,210 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/EmojiPicker/shared/unspecified/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="c30ebc566fe944cdddf7fc6777eaac07acdaa5ab">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/release/folders/1000/4/EmojiPicker-shared-unspecified_e002b0b0eebbebe494c0c7d51b0841d7bd433a56/classes.dex" />
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c6e88d358839f2b262460296507cf4fc52b2983d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_964ce04916aff47b67d8af8f2ccdf51c98da8f7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c7346ada4315f45fe6cb198d5870c41edab251c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_1bdc7b1ae2dd41542968f4ba043a99e89020d271/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6c1e5bb5ba1bc1de2ff6976a103131893ae4e57d/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/support-annotations-24.0.0_e3d94d24fa3328a9d65d94e5d6401930323d42df.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.0.1_c00a1f5212b58bde6c2cae2e4c6bfdc164364c6f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.6.1_8dd7984b4dc48b5aa8141f194581bac794c3517d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_81fdc58e832d6ff735006aac3ec9c9c55a3183db/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ff30f1bb0b7c750b1ba003798ec3e95fdd42274/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_64d1bdb45ca549f0ca795b39a85157c2874579a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_51f4061531e8c3d896d0a836540ed9b3962c4dcb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_30a8352e2306d65192af2ab6d639094ccdac3d1f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dd84a684de5bafcb26d153c98ca00f4eb4f77bee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_34ddc8c720d017a54f72b9300d8ab454f25ad6db/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-9.6.1_cd7f6c8b2dceaeeb3391ed4cb2d97e4eb4623ddd.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_923db49b511476dba495aad3087c3d15d3500324/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/internal_impl-24.0.0_2dd6c198ef995448765fe7a186f5bdb64992d0a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.6.1_5bedffec5b2e0f91eb262411346aaf0582969c12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="198f86964d1fe34215742672a4e095f916f0f4d9">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.google.android.support-wearable-2.0.0-alpha1_d22a7cec4ea0208dc66994baa22dce12bf492c52.jar" />
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c5b8b15e21aafe7a3f55cd68c907dd541235e4d8/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
         <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_de6067681500da5038dcc711f482a2a04bcfe37e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5396380e643051887ab4f30856ae72ecd7773b92/classes.dex" />
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_778bda2583f48ff40b3f2358c2d471ac1212e897/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5a85e87da0676d98cb87c3af725aa1a637a421b1/classes.dex" />
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_49e6b6ada87d20d889ee7bcd845acdc482ea0b97/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_43edf9d48f728199d3512a4315a340609c882c05/classes.dex" />
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4ed04bf008f52951c0c686df660a4bb75b780696/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.6.1_08ca57f61308af1e7cc41ac7a6370d0fc5d16367.jar" />
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_c2de3490ef504bb380f539357849e18043f44e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_fccac401809a94ba7d6431f68241c058bfb17693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_262e3feaa613facbb82def50c346be5ed57e4804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_34ddc8c720d017a54f72b9300d8ab454f25ad6db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_55e1847e05e0390f90d40c09ad2552cebe798a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2f9c775af1906c30d63fd087f275770033fecdbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_5d3a84cb498d4d86fce90b4cc0bb15855c96f012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_bc7f5ad0820259fb7afe4c6d04ddc9b4773a4f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ee53c448202894a3d56cab01397fbabb5b723ac4/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
         <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_d4b2dc1613b69a0cd452734ed9183345c21f5b2f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_64dcb707e0314cbb8474eac20a46bae6b87f13dc/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/EmojiPicker/shared/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c30ebc566fe944cdddf7fc6777eaac07acdaa5ab">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/EmojiPicker-shared-unspecified_e5649d030e5f77b1637711e6175741224fd3e643.jar" />
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_70a7378b80ebcc059e6212d3b1ffe481f89206e2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a4f978622bf0381e2287c8a62f69f84619dade3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_003534c82def0d4e5ebc9734e60010776763fa3c.jar" />
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_30a8352e2306d65192af2ab6d639094ccdac3d1f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_96f87d50b2a625b562340678854ebf2c1e9f46fc/classes.dex" />
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_f39d363f3d95503853b35ca5d9c3c1167735ed8e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_af73f0990effb7c33a11195f73edd33b1c66fc46/classes.dex" />
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_80a63f022349e07425f083021c3f6c6580221363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d465bbe37c20d4827791e7861c275f7f733dcb62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/EmojiPicker/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5621c2fec1742c6fb7e5493450e64b3bd45861c">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/4/EmojiPicker-shared-unspecified_e002b0b0eebbebe494c0c7d51b0841d7bd433a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a2e17e5234e47c1b303d9aa7c300683c5d783f73/classes.dex" />
     </item>
 
 </items>

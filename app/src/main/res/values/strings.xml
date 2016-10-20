@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EmojiPicker</string>
+    <string name="app_name">Emoticon Picker</string>
     <string name="copy">Copy</string>
     <string name="error">Error</string>
     <string name="loading">Loading...</string>
@@ -24,4 +24,10 @@
     <string name="yes">Yes</string>
     <string name="already_connected">You\'re already connected to a computer</string>
     <string name="setup">Setup</string>
+    <string name="pair_shortcut_short_label">Pair Computer</string>
+    <string name="pair_shortcut_long_label">Pair Computer</string>
+    <string name="pair_shortcut_disabled">Pair Computer (disabled)</string>
+    <string name="pick_emoticon_shortcut_short_label">Pick Emoticon</string>
+    <string name="pick_emoticon_shortcut_long_label">Pick Emoticon</string>
+    <string name="pick_emoticon_shortcut_disabled">Pick Emoticon (disabled)</string>
 </resources>

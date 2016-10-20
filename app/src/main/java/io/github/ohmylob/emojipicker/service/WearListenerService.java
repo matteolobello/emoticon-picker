@@ -38,7 +38,7 @@ public class WearListenerService extends WearableListenerService {
     @Override
     public void onMessageReceived(final MessageEvent messageEvent) {
         super.onMessageReceived(messageEvent);
-        if (messageEvent.getPath().equals("/emoji/clicked")) {
+        if (messageEvent.getPath().equals("/emoticon/clicked")) {
             Log.d("WearListenerService", "onMessageReceived");
 
             if (computerConnection == null) {

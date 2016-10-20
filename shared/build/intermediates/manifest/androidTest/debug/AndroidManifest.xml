@@ -3,8 +3,8 @@
     package="io.github.ohmylob.shared.test" >
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="24" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"

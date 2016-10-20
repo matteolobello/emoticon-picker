@@ -51,14 +51,14 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 
 import io.github.ohmylob.emojipicker.R;
-import io.github.ohmylob.emojipicker.adapter.EmojiAdapter;
+import io.github.ohmylob.emojipicker.adapter.EmoticonAdapter;
 import io.github.ohmylob.emojipicker.connection.ComputerConnection;
 import io.github.ohmylob.emojipicker.connection.ConnectionUtils;
 import io.github.ohmylob.emojipicker.connection.PortScanner;
 import io.github.ohmylob.emojipicker.debug.Logger;
 import io.github.ohmylob.emojipicker.util.ScreenMath;
 import io.github.ohmylob.emojipicker.view.AutoFitRecyclerView;
-import io.github.ohmylob.shared.emoji.Emojis;
+import io.github.ohmylob.shared.emoji.Emoticons;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -83,9 +83,9 @@ public class MainActivity extends AppCompatActivity {
     public View noPcFound;
 
     /**
-     * The grid RecyclerView where are Emojis are displayed
+     * The grid RecyclerView where are Emoticons are displayed
      */
-    public RecyclerView emojiRecyclerView;
+    public RecyclerView emoticonRecyclerView;
 
     /**
      * The app Toolbar
@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * A View wrapper that contains the RecyclerView
      */
-    private View emojiGridViewWrapper;
+    private View emoticonGridViewWrapper;
 
     /**
      * The Button shown when no PC has been found
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * The RecyclerView adapter
      */
-    private EmojiAdapter emojiAdapter;
+    private EmoticonAdapter emoticonAdapter;
 
     /**
      * A boolean used to check if user has skipped the setup
@@ -125,9 +125,11 @@ public class MainActivity extends AppCompatActivity {
     /**
      * The Runnable run on UI thread that starts animation and setups other UI elements
      */
-    private Runnable setupEmojis = new Runnable() {
+    private Runnable setupEmoticons = new Runnable() {
         @Override
         public void run() {
+            final boolean openedFromShortcut = getIntent().getStringExtra("pick_emoticon") != null;
+
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
                     View decor = getWindow().getDecorView();
@@ -138,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             Animation fadeOut = AnimationUtils.loadAnimation(getApplicationContext(), android.R.anim.fade_out);
-            fadeOut.setDuration(400);
+            fadeOut.setDuration(openedFromShortcut ? 0 : 400);
             fadeOut.setAnimationListener(new Animation.AnimationListener() {
                 @Override
                 public void onAnimationStart(Animation animation) {
@@ -153,14 +155,14 @@ public class MainActivity extends AppCompatActivity {
                     final int toolBarHeight = (int) styledAttributes.getDimension(0, 0);
 
                     pairingWithPc.setVisibility(View.GONE);
-                    emojiGridViewWrapper.setVisibility(View.VISIBLE);
-                    emojiRecyclerView.setVisibility(View.INVISIBLE);
+                    emoticonGridViewWrapper.setVisibility(View.VISIBLE);
+                    emoticonRecyclerView.setVisibility(View.INVISIBLE);
 
                     toolbar.setVisibility(View.VISIBLE);
                     if (Build.VERSION.SDK_INT < Build.VERSION_CODES.LOLLIPOP) {
-                        RelativeLayout.LayoutParams layoutParams = (RelativeLayout.LayoutParams) emojiRecyclerView.getLayoutParams();
+                        RelativeLayout.LayoutParams layoutParams = (RelativeLayout.LayoutParams) emoticonRecyclerView.getLayoutParams();
                         layoutParams.topMargin = toolBarHeight + ScreenMath.dpToPx(12);
-                        emojiRecyclerView.setLayoutParams(layoutParams);
+                        emoticonRecyclerView.setLayoutParams(layoutParams);
                     }
                     setSupportActionBar(toolbar);
 
@@ -168,31 +170,31 @@ public class MainActivity extends AppCompatActivity {
                     slideInToolbarAnimation.setAnimationListener(new Animation.AnimationListener() {
                         @Override
                         public void onAnimationStart(Animation animation) {
-                            emojiAdapter = new EmojiAdapter(MainActivity.this, Emojis.EMOJIS, userHasSkippedSetup);
+                            emoticonAdapter = new EmoticonAdapter(MainActivity.this, Emoticons.EMOTICONS, userHasSkippedSetup);
 
-                            emojiRecyclerView.addItemDecoration(new RecyclerView.ItemDecoration() {
+                            emoticonRecyclerView.addItemDecoration(new RecyclerView.ItemDecoration() {
                                 @Override
                                 public void getItemOffsets(Rect outRect, View view, RecyclerView parent, RecyclerView.State state) {
                                     int margin = ScreenMath.dpToPx(4);
                                     outRect.set(margin, margin, margin, margin);
                                 }
                             });
-                            emojiRecyclerView.setAdapter(emojiAdapter);
-                            emojiRecyclerView.setPadding(fourDp,
+                            emoticonRecyclerView.setAdapter(emoticonAdapter);
+                            emoticonRecyclerView.setPadding(fourDp,
                                     Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP
                                             ? toolBarHeight + fourDp
                                             : 0,
                                     fourDp,
                                     fourDp);
                             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-                                emojiRecyclerView.setOnScrollListener(AutoFitRecyclerView.getOnScrollListener(toolbar));
+                                emoticonRecyclerView.setOnScrollListener(AutoFitRecyclerView.getOnScrollListener(toolbar));
                             }
                         }
 
                         @Override
                         public void onAnimationEnd(Animation animation) {
                             Animation fadeIn = AnimationUtils.loadAnimation(getApplicationContext(), android.R.anim.fade_in);
-                            fadeIn.setDuration(400);
+                            fadeIn.setDuration(openedFromShortcut ? 0 : 400);
                             fadeIn.setAnimationListener(new Animation.AnimationListener() {
                                 @Override
                                 public void onAnimationStart(Animation animation) {
@@ -200,14 +202,14 @@ public class MainActivity extends AppCompatActivity {
 
                                 @Override
                                 public void onAnimationEnd(Animation animation) {
-                                    emojiRecyclerView.setVisibility(View.VISIBLE);
+                                    emoticonRecyclerView.setVisibility(View.VISIBLE);
                                 }
 
                                 @Override
                                 public void onAnimationRepeat(Animation animation) {
                                 }
                             });
-                            emojiRecyclerView.startAnimation(fadeIn);
+                            emoticonRecyclerView.startAnimation(fadeIn);
                         }
 
                         @Override
@@ -222,7 +224,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onAnimationRepeat(Animation animation) {
-
                 }
             });
             pairingWithPc.startAnimation(fadeOut);
@@ -288,8 +289,8 @@ public class MainActivity extends AppCompatActivity {
         pairingWithPc = findViewById(R.id.pairing_pc_wrapper);
         retryView = findViewById(R.id.retry);
 
-        emojiRecyclerView = (RecyclerView) findViewById(R.id.emoji_recycler_view);
-        emojiGridViewWrapper = findViewById(R.id.recycler_view_wrapper);
+        emoticonRecyclerView = (RecyclerView) findViewById(R.id.emoticon_recycler_view);
+        emoticonGridViewWrapper = findViewById(R.id.recycler_view_wrapper);
 
         computerConnection = ComputerConnection.getInstance();
         portScanner = PortScanner.getInstance();
@@ -306,6 +307,15 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        if (getIntent().getStringExtra("pick_emoticon") != null) {
+            userHasSkippedSetup = true;
+            portScanner.finish();
+
+            runOnUiThread(setupEmoticons);
+
+            return;
+        }
+
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -318,7 +328,7 @@ public class MainActivity extends AppCompatActivity {
                                     userHasSkippedSetup = true;
                                     portScanner.finish();
 
-                                    runOnUiThread(setupEmojis);
+                                    runOnUiThread(setupEmoticons);
                                 }
                             }).show();
                 }
@@ -332,7 +342,7 @@ public class MainActivity extends AppCompatActivity {
                     computerConnection.setIp(ip);
 
                     if (computerConnection.send("Connected to: " + Build.MODEL)) {
-                        runOnUiThread(setupEmojis);
+                        runOnUiThread(setupEmoticons);
 
                         return true;
                     }
@@ -341,7 +351,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
         } else {
-            runOnUiThread(setupEmojis);
+            runOnUiThread(setupEmoticons);
         }
     }
 
@@ -350,20 +360,21 @@ public class MainActivity extends AppCompatActivity {
      */
     private void recreateWithFade() {
         Intent intent = getIntent();
+        intent.removeExtra("pick_emoticon");
         finish();
         startActivity(intent);
         overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
     }
 
     /**
-     * Open EmojiPicker Android Wear app
+     * Open Emoticon Picker Android Wear app
      */
     private void openAppOnWear() {
         Wearable.NodeApi.getConnectedNodes(googleApiClient).setResultCallback(new ResultCallback<NodeApi.GetConnectedNodesResult>() {
             @Override
             public void onResult(@NonNull NodeApi.GetConnectedNodesResult getConnectedNodesResult) {
                 for (Node node : getConnectedNodesResult.getNodes()) {
-                    Wearable.MessageApi.sendMessage(googleApiClient, node.getId(), "/start/MainActivity", arrayToByteArray(Emojis.EMOJIS))
+                    Wearable.MessageApi.sendMessage(googleApiClient, node.getId(), "/start/MainActivity", arrayToByteArray(Emoticons.EMOTICONS))
                             .setResultCallback(new ResultCallback<MessageApi.SendMessageResult>() {
                                 @Override
                                 public void onResult(@NonNull MessageApi.SendMessageResult sendMessageResult) {
@@ -418,7 +429,7 @@ public class MainActivity extends AppCompatActivity {
             if (userHasSkippedSetup) {
                 recreateWithFade();
             } else {
-                Snackbar.make(emojiRecyclerView, R.string.already_connected, Snackbar.LENGTH_SHORT).show();
+                Snackbar.make(emoticonRecyclerView, R.string.already_connected, Snackbar.LENGTH_SHORT).show();
             }
         }
 

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/drawable-mdpi/ic_full_cancel.png",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/drawable-mdpi/ic_full_cancel.png"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/drawable-mdpi/card_frame_pressed.9.png",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/drawable-mdpi/card_frame_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/drawable-mdpi/ic_full_sad.png",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/drawable-mdpi/ic_full_sad.png"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/drawable-mdpi/card_frame.9.png",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/drawable-mdpi/card_frame.9.png"
+    }
+]

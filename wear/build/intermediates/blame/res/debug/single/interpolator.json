@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/open_on_phone_animation_interpolator_1.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/open_on_phone_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/generic_confirmation_animation_interpolator_3.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/generic_confirmation_animation_interpolator_3.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/generic_confirmation_animation_interpolator_1.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/generic_confirmation_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/open_on_phone_animation_interpolator_0.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/open_on_phone_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/generic_confirmation_animation_interpolator_0.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/generic_confirmation_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/res/merged/debug/interpolator/generic_confirmation_animation_interpolator_2.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/interpolator/generic_confirmation_animation_interpolator_2.xml"
+    }
+]
