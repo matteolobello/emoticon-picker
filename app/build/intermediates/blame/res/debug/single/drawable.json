@@ -148,12 +148,12 @@
         "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
         "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/res/merged/debug/drawable/shortcut_pick_emoticon.xml",
         "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/src/main/res/drawable/shortcut_pick_emoticon.xml"
+    },
+    {
+        "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/Lob/AndroidStudioProjects/EmojiPicker/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
